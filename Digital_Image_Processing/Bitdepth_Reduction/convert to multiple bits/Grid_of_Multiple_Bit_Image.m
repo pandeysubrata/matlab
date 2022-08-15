@@ -15,4 +15,8 @@ for x=1:1:8 %Create a for loop from 1 to 8 with a gap of 1 e.g. 1,2,3...8
     subplot(2, 4, x) ; %Create axes in tiled positions for plotting all the eight images in a single graph
     imshow(fm_rounded,[]) %Convert the array 'fm_rounde' into an image with the range available in the array
 end %End of the for loop
+<<<<<<< HEAD
 %End of the MATLAB code
+=======
+%End of the MATLAB code
+>>>>>>> fbc4156e4af36b27a941f813f7d2d8b13cb1db7c
